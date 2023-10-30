@@ -17,7 +17,7 @@ I'm Andrew Aucie, a third-year student at [University of Toronto](https://www.ut
 - 🌱 I’m studying computer science and statistical machine learning at the University of Toronto
 - 📫 my email is andrew.aucie@mail.utoronto.ca
 - 🔭 I’m currently working as a Software Developer Co-op at RBC
-- View my 📝 [Resume](https://drive.google.com/file/d/1f_GjREzD-YRaJE5BHrZpcyOeBJvJ1cvh/view?usp=sharing)
+- View my 📝 [Resume](https://drive.google.com/file/d/1d2MY_AsAhJY3hwPllTbXNQZhkVk_w6n8/view?usp=sharing)
 
 **Languages and Tools:** 
 <div>
