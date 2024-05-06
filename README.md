@@ -1,23 +1,4 @@
-<!-- - 👋 Hi, I’m @andrewaucie
-- 👀 I’m interested in Computer Science and Software Development
-- 🌱 I’m currently learning Computer Science at the University of Toronto
-- 💞️ I’m looking to collaborate on an intriguing project
-- 📫 How to reach me ... andrew.aucie@mail.utoronto.ca
- -->
-
-### Hi there 👋 I am Andrew Aucie! 👨‍💻
-<p align="center">
-  <img src="https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" alt="Example GIF" width="20%" style="display: block; margin: auto;">
-</p>
-
-
-I'm Andrew Aucie, a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and Statistical Machine Learning. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in mobile developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
-
-- 👀 I’m interested in machine learning applications and software development
-- 🌱 I’m studying computer science and statistical machine learning at the University of Toronto
-- 📫 my email is andrew.aucie@mail.utoronto.ca
-- 🔭 I’m currently working as a Software Developer Co-op at RBC
-- View my 📝 [Resume](https://drive.google.com/file/d/1d2MY_AsAhJY3hwPllTbXNQZhkVk_w6n8/view?usp=sharing)
+I'm Andrew Aucie, a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and Statistical Machine Learning. I have experience building end-to-end web & mobile applications and architecting machine learning models for real-world use cases.
 
 **Languages and Tools:** 
 <div>
