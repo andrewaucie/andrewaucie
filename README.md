@@ -1,1 +1,1 @@
-I'm Andrew Aucie, a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and Statistical Machine Learning. I have experience building end-to-end web & mobile applications and architecting machine learning models for real-world use cases.
+I'm Andrew Aucie, a rising senior at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and Statistical Machine Learning. I have experience building end-to-end web & mobile applications and architecting machine learning models for real-world use cases.
